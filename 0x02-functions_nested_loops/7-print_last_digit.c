@@ -5,7 +5,7 @@
  *
  * @n: Input of type integer
  *
- * Return : Always 0 (success)
+ * Return: Always 0 (success)
  */
 int print_last_digit(int n)
 {
